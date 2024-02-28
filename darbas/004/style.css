@@ -1,0 +1,33 @@
+body{
+margin: 0;
+
+}
+
+div{
+    font-size: 0;
+}
+
+span{
+    color: aqua;
+}
+
+i{
+    color:blueviolet;
+  font-size: 80px;
+}
+
+h1{
+    color:crimson;
+    font-size: 50px;
+    line-height: 1.5;
+    letter-spacing: 4px;
+    margin: 10px;
+    border: 2px solid crimson ;
+    padding: 20px;
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+    height:200px ;
+    vertical-align: middle;
+    
+}
